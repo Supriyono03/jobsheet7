@@ -3,8 +3,8 @@ import 'package:flutter/material.dart';
 class StateTeksUtama extends State<TeksUtama> {
 
   var listNama = [
-    'Budi', 'Andi', 'Sari', 'Rudi',
-    'Nurul', 'Huda', 'Lendis', 'Fabri'
+    'Supri', 'Yono', 'Dipa', 'Ismail',
+    'Ade', 'Setiawan', 'Yudha', 'Dinda'
   ];
   var listWarna = [
     Colors.red, Colors.purple, Colors.teal, Colors.lime,
